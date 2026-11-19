@@ -29,9 +29,9 @@ ds4021_finalproject/
 ### Group Member Responsibilities
 | Member | Individual modeling assignment | Group tasks |
 |---|---|---|
-| Nathaniel Horton | TBD | TBD |
-| Macy Moore | TBD | TBD |
-| Ava Lawless | TBD | TBD |
+| Nathaniel Horton | Penalized linear & SVM | Repo Formatting, Descriptive Analysis Notebook |
+| Macy Moore | Bagging-type & boosting-type | TBD |
+| Ava Lawless | Neural network | TBD |
 
 ## Data
 Source: [Diabetes Health Indicators Dataset](https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset) on Kaggle, a cleaned subset of the CDC's 2015 BRFSS survey. We use `diabetes_binary_health_indicators_BRFSS2015.csv` (253,680 rows, 21 features).
